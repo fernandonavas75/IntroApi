@@ -1,0 +1,6 @@
+@Proyecto05_Navas_HostAddress = http://localhost:5162
+
+GET {{Proyecto05_Navas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
